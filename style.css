@@ -1,0 +1,7 @@
+#myCanvas{
+	margin: 0 auto;
+	 width: 480px;
+	 height: 320px;
+	 display: block;
+	 background: url('bg.jpg');
+}
